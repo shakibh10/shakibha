@@ -15,5 +15,7 @@ int main()
     printf("square is: %d\n",result);
 
     getch();
+    
+    return 0;
 }
 
